@@ -8,6 +8,8 @@ I have completed my education at two universities, [Universitas BSI](https://www
 
 <img align="left" alt="Ade Putra Syamsuri Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeput29&show_icons=true&hide_border=false" />
 
+##
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adeput29)](https://git.io/streak-stats)
 
 <img align="left" alt="Ade Putra Syamsuri Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeput29&layout=compact"/>
