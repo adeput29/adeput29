@@ -1,10 +1,11 @@
 # Hi there, I'm Ade Putra Syamsuri <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm following the program [`Indosat Ooredoo IDCamp 2023`](https://idcamp.ioh.co.id/). I have big passion working with Android Developement.
-- 📚 I’m currently learning Android Development.
+I have completed my education at two universities, [Universitas BSI](https://www.bsi.ac.id/ubsi/) and [Universitas Nusa Mandiri](https://www.nusamandiri.ac.id/nuri/), majoring in Information Systems and now I'm following the program [`Indosat Ooredoo IDCamp 2023`](https://idcamp.ioh.co.id/). I have big passion working with Android Developement.
+- 📚 currently I work as a Desktop and Android application programmer in a private company.
 - 🚀 Try to be consistent every single day.
 
 ## Stats:
+
 <img align="left" alt="Ade Putra Syamsuri Github Stats" src="https://github-readme-stats.vercel.app/api?username=adeput29&show_icons=true&hide_border=false" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adeput29)](https://git.io/streak-stats)
