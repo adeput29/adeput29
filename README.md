@@ -5,7 +5,7 @@ I have completed my education at two universities, [Universitas BSI](https://www
 - 🚀 Try to be consistent every single day.
 
 ## Website
-https://adeput29.github.io/index.html
+https://adeput29.github.io
 
 ## Stats:
 
